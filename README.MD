@@ -14,7 +14,13 @@ A Machine Learning project that predicts the winning probability of IPL teams ba
 ---
 
 ## 📂 Project Structure
-
+├── Datasets/ # Raw and processed datasets
+├── Models/ # Trained ML models
+├── Dataset_Preparation.ipynb # Data cleaning & preprocessing
+├── Model.ipynb # Model training and evaluation
+├── app.py # Web app for prediction
+├── requirements.txt # Dependencies
+└── README.md # Project documentation
 ---
 
 ## 🧠 Machine Learning Workflow
@@ -63,3 +69,6 @@ A Machine Learning project that predicts the winning probability of IPL teams ba
 ```bash
 git clone https://github.com/your-username/IPL_winning_Prediction.git
 cd IPL_winning_Prediction
+pip install -r requirements.txt
+python app.py
+streamlit run app.py
