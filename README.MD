@@ -67,6 +67,10 @@ A Machine Learning project that predicts the winning probability of IPL teams ba
 ---
 
 ## ▶️ How to Run the Project
+## 🌐 Live Demo
+
+Try the app live here 👇  
+🔗 https://tanmay-ipl-winning-07.streamlit.app/
 
 ### 1. Clone the repository
 
