@@ -17,13 +17,14 @@ A Machine Learning project that predicts the winning probability of IPL teams ba
 ---
 
 ## 📂 Project Structure
-├── Datasets/ # Raw and processed datasets
-├── Models/ # Trained ML models
-├── Dataset_Preparation.ipynb # Data cleaning & preprocessing
-├── Model.ipynb # Model training and evaluation
-├── app.py # Web app for prediction
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
+
+- **Datasets/** → Raw and processed data  
+- **Models/** → Trained ML models  
+- **Dataset_Preparation.ipynb** → Data preprocessing  
+- **Model.ipynb** → Model training  
+- **app.py** → Web app  
+- **requirements.txt** → Dependencies  
+- **README.md** → Documentation  
 ---
 
 ## 🧠 Machine Learning Workflow
