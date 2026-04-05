@@ -4,7 +4,7 @@ A Machine Learning project that predicts the winning probability of IPL teams ba
 
 ---
 <p align="center">
-  <img src="Images/Screenshot 2026-04-03 175849.png" alt="Banner" width="100%">
+  <img src="Images/Screenshot 2026-04-03 175849.png" alt="Banner" height ="30%" width="100%">
 </p>
 
 ## 🚀 Features
